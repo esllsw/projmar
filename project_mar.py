@@ -5,7 +5,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 
  
-API_TOKEN = '7049155085:AAFdxfo9Ah5ylebzBWv2TR2iCqDHuQMYWRg'
+API_TOKEN = ''
 language = "diffrent"
  
 bot = Bot(token=API_TOKEN)
